@@ -1,0 +1,9 @@
+{
+  "name": "redis-client-proxy",
+  "version": "0.0.1",
+  "private": false,
+  "dependencies": {
+    "redis": ">=0.0.1",
+    "underscore": ">=1.2.4"
+  }
+}
