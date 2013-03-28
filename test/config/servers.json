@@ -1,10 +1,10 @@
 {
 "development": [
-   	  {"host" : "pomelo.com", "port" : "6379","type":"master"},
-   	  {"host" : "pomelo.com", "port" : "6479","type":"slave"}
+   	  {"host" : "127.0.0.1", "port" : "6379","type":"master"},
+   	  {"host" : "127.0.0.1", "port" : "6479","type":"slave"}
  ],
  "production": [
-    {"host" : "pomelo4.server.163.org", "port" : "6379","type":"master"},
-    {"host" : "pomelo4.server.163.org", "port" : "6479","type":"slave"}
+    {"host" : "127.0.0.1", "port" : "6379","type":"master"},
+    {"host" : "127.0.0.1", "port" : "6479","type":"slave"}
   ]
 }
